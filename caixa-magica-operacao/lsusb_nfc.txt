@@ -1,0 +1,7 @@
+Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 001 Device 012: ID c0f3:02a1 USB HCT Keyboard
+Bus 001 Device 004: ID 0eef:c002 D-WAV Scientific Co., Ltd eGalaxTouch P80H32 2938 v00_T1 k4.10.143
+Bus 001 Device 003: ID 13d3:3533 IMC Networks Bluetooth Radio 
+Bus 001 Device 022: ID 1fc9:0088 NXP Semiconductors LPC I2C HID 
+Bus 001 Device 010: ID 046d:c077 Logitech, Inc. M105 Optical Mouse
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
